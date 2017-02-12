@@ -1,0 +1,5 @@
+*~
+*.gz
+*.png
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
